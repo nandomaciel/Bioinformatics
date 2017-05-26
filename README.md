@@ -15,3 +15,7 @@
 * [Tutorial de Perl](http://www.absoluta.org/cgi/cgi_perl.htm)
 
 
+## Ferramentas
+* [Conda](http://bioconda.github.io/)
+* [BWA](http://bio-bwa.sourceforge.net/)
+* [Trim galore](http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/)
